@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.16.3.250:28888/meeting/setup/net/MeetingClient.ipa</string>
+					<string>http://117.158.199.246:28888/meeting/setup/net/MeetingClient.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
